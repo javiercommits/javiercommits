@@ -20,6 +20,7 @@ Tecnologías que he usado:
 ---
 
 Actualmente estoy preparando mis proyectos para publicarlos aquí.
+
 ---
 
 Contacto:
