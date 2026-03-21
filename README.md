@@ -8,20 +8,14 @@ Me interesa seguir mejorando en desarrollo backend y aprender a diseñar sistema
 
 Actualmente sigo construyendo cosas y aprendiendo a través de la práctica.
 
----
-
 Tecnologías que he usado:
 - JavaScript
 - Node.js
 - HTML / CSS
 - Python
 - Git
-
----
-
+  
 Actualmente estoy preparando mis proyectos para publicarlos aquí.
-
----
 
 Contacto:
 - LinkedIn:
