@@ -1,16 +1,26 @@
-## Hi there 👋
+Hola, soy Javier 👋
 
-<!--
-**javiercommits/javiercommits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estoy en mi último año de Ingeniería Informática y me he enfocado principalmente en desarrollar proyectos web funcionales.
 
-Here are some ideas to get you started:
+He trabajado en landing pages y también en proyectos con backend, donde he podido aplicar lógica real, manejo de datos y construcción de APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me interesa seguir mejorando en desarrollo backend y aprender a diseñar sistemas bien estructurados y escalables.
+
+Actualmente sigo construyendo cosas y aprendiendo a través de la práctica.
+
+---
+
+Tecnologías que he usado:
+- JavaScript
+- Node.js
+- HTML / CSS
+- Python
+- Git
+
+---
+
+Actualmente estoy preparando mis proyectos para publicarlos aquí.
+---
+
+Contacto:
+- LinkedIn:
