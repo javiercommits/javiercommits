@@ -19,8 +19,8 @@ Me interesa desarrollar aplicaciones web, comprender cómo funcionan sus distint
 
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=js,ts,react,nextjs,astro&theme=dark&perline=5"
-    alt="JavaScript, TypeScript, React, Next.js y Astro"
+    src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,astro&theme=dark&perline=8"
+    alt="HTML5, CSS3, Tailwind CSS, JavaScript, TypeScript, React, Next.js y Astro"
     height="52"
   />
 </p>
@@ -39,8 +39,8 @@ Me interesa desarrollar aplicaciones web, comprender cómo funcionan sus distint
 
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3"
-    alt="Git, GitHub y Visual Studio Code"
+    src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker&theme=dark&perline=5"
+    alt="Git, GitHub, Visual Studio Code, Vercel y Docker"
     height="52"
   />
 </p>
