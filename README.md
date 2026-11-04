@@ -2,7 +2,6 @@
 <div align="left">
 
 <img src="./banner_profesional_de_javier_orellana.png" alt="Javier Orellana | Software Development" width="100%" />
-
 <br>
 
 **Estudiante de último año de Ingeniería Informática, orientado al desarrollo Full Stack.**
