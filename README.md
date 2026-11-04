@@ -1,7 +1,7 @@
 
 <div align="left">
 
-<img src="./header.svg" alt="Javier Orellana | Software Development" width="100%" />
+<img src="./banner_profesional_de_javier_orellana.png" alt="Javier Orellana | Software Development" width="100%" />
 
 <br>
 
