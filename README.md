@@ -1,45 +1,64 @@
-<div align="center">
 
-# Hola, soy Javier 👋
+<div align="left">
 
-### Estudiante de Ingeniería Informática · Desarrollo Web & Backend
+<img src="./header.svg" alt="Javier Orellana | Software Development" width="100%" />
 
-Me gusta construir aplicaciones web funcionales, trabajar con APIs y transformar ideas en soluciones simples y útiles.
+<br/>
 
-Estoy cursando mi último año de **Ingeniería Informática** y sigo mejorando mis habilidades mediante la práctica y el desarrollo de proyectos.
+Me interesa entender cómo se construye el software, desde la lógica que lo hace funcionar hasta los detalles que definen cómo se utiliza.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white)](TU_LINKEDIN)
-[![Correo](https://img.shields.io/badge/Correo-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:TU_CORREO)
+Actualmente enfocado en el desarrollo web y en seguir fortaleciendo mis conocimientos técnicos.
+
+<br/>
+
+---
+
+### 01 / Tecnologías
+
+**Frontend**
+
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=js,ts,react,nextjs,astro&theme=dark&perline=5"
+    alt="JavaScript, TypeScript, React, Next.js y Astro"
+    height="56"
+  />
+</p>
+
+**Backend & Data**
+
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,postgres,supabase&theme=dark&perline=3"
+    alt="Node.js, PostgreSQL y Supabase"
+    height="56"
+  />
+</p>
+
+**Tools**
+
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3"
+    alt="Git, GitHub y Visual Studio Code"
+    height="56"
+  />
+</p>
+
+<br/>
+
+---
+
+### 02 / Más allá del código
+
+Me interesa comprender cómo funcionan los sistemas y tomar decisiones técnicas que permitan construir software claro, útil y fácil de mantener.
+
+Desarrollo web · Ingeniería de software · Experiencia de usuario
+
+<br/>
+
+---
+
+<sub>Javier Orellana · Rancagua, Chile</sub>
 
 </div>
-
----
-
-## Stack
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" />
-</p>
-
-### Backend y bases de datos
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,firebase,python&theme=dark" />
-</p>
-
-### Herramientas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vercel&theme=dark" />
-</p>
-
----
-
-## Sobre mí
-
-- Me interesa construir aplicaciones web simples, útiles y bien organizadas.
-- Disfruto trabajar con APIs, bases de datos y lógica de negocio.
-- Me atraen los sistemas de gestión y las soluciones para negocios.
-- Aprendo principalmente desarrollando proyectos y resolviendo problemas.
